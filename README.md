@@ -2,4 +2,4 @@
 
 
 
-Projeto de um Banco Digital desenvolvido em Java no bootcamp Java S5 da DIO/GFT, utilizando de conceitos da Programação Orientada a Objetos.
+Projeto de um Banco Digital desenvolvido em Java no bootcamp Java S5 da DIO/GFT, utilizando de conceitos de Programação Orientada a Objetos.
